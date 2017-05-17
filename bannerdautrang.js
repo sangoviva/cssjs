@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/op5qkE' target='_blank'><img src='http://imageshack.com/a/img923/7115/yjUTDy.jpg' width='500px'/><br/> TƯ VẤN THI CÔNG SÀN GỖ </a>. LH 0978 613 390 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2rqcnZa' target='_blank'><img src='http://imageshack.com/a/img923/7115/yjUTDy.jpg' width='500px'/><br/> TƯ VẤN THI CÔNG SÀN GỖ </a>. LH 0978 613 390 <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
