@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://tongkhosangomiennam.vn/
+//website http://sangomiennam.blogspot.com or http://tongkhosangomiennam.vn/
 
 (function($) {
     $.fn.linhnguyen = function(options) {        
